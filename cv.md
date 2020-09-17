@@ -57,8 +57,8 @@ Swedish - B1
 
 * ### Contact information
 
-1. **Current mailing address:**  
++ **Current mailing address:**  
 52 apt.4, Kal'vary'skaya st., Minsk, Republic of Belarus 220073.  
-2. **Tel.** +375 44 569 9532 
-3. **Email:** omilya2601@gmail.com
-4. [LinkedIn Page](https://www.linkedin.com/in/olga-mishkovets-0971b0189/) 
++ **Tel.** +375 44 569 9532 
++ **Email:** omilya2601@gmail.com
++ [LinkedIn Page](https://www.linkedin.com/in/olga-mishkovets-0971b0189/) 
