@@ -29,3 +29,28 @@ Position: Project Manager Assistant
 * ### Awards and certificates 
 
 1. Certificate of participating as a negotiator in International Commercial Negotiation Exercise held in Minsk-Los Angeles on April 3-18, 2017 
+
+* ### Skills and Qalities
+
+* #### Hard skills
+
+1. HTML, CSS, JavaScript basics
+2. Figma, Adobe Photoshop
+3. Git basics
+4. Knowledge of SDLC
+5. Experience with Agile metodology (Scrum, Kanban)
+6. Experience with Jira, Confluence 
+7. English - B2+  
+Swedish - B1
+
+* #### Soft skills
+
+1. Quick-learner
+2. Self-organized
+3. Good team-worker
+4. Self-motivated
+5. Creative
+6. Attentive to details
+7. Flexible
+8. Communicative
+9. Good at respecting deadlines 
