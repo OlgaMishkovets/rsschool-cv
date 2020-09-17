@@ -56,6 +56,7 @@ Swedish - B1
 9. Good at respecting deadlines 
 
 * ### Contact information
+
 1. **Current mailing address:**  
 52 apt.4, Kal'vary'skaya st., Minsk, Republic of Belarus 220073.  
 2. **Tel.** +375 44 569 9532 
