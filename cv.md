@@ -15,3 +15,13 @@
 * ### Examinations
 
 1. BSU State examination, **English** (oral and written) – grade 10
+
+* ### Working experience 
+
+1. SPP Stepanovski, Papakul & Partners Attorneys-at-Law  
+Period: 02/21/2019 - 06/21/2019
+Position: Assistant of Attorney
+
+2. ISsoft  
+Period: 06/24/2020 - now  
+Position: Project Manager Assistant
