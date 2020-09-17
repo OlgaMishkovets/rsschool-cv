@@ -25,3 +25,7 @@ Position: Assistant of Attorney
 2. ISsoft  
 Period: 06/24/2020 - now  
 Position: Project Manager Assistant
+
+* ### Awards and certificates 
+
+1. Certificate of participating as a negotiator in International Commercial Negotiation Exercise held in Minsk-Los Angeles on April 3-18, 2017 
